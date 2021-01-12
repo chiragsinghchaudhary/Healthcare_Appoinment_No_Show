@@ -11,3 +11,4 @@ What is a ‘No Show’? A patient may book for a doctor’s appointment at a he
 3) At the end of a week, the clinic staff normally creates a Charge Report which is later used to submit claims with the insurance companies for all the patients that visited for that week. 
 ----- If a patient scheduled an appointment for a particular week and did show up, then his/her name is included in the Charge report.
 ------ If a patient does a ‘No Show’, his/her name is not in the charge report for the day the appointment was scheduled (date of service). Though the patient name will be in scheduling report
+....
